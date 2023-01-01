@@ -1,5 +1,6 @@
 # postgre-Db
 <b>Some important command<b>
+  <br>
 \l -->List available databases	 
 \dt	-->List available tables
 \dn	-->List all schemes of the currently connected database
