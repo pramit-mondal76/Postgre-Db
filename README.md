@@ -30,6 +30,7 @@
 <br>
  <b>How to create table and delete schemas ?<b>
   <br> 
+  <br>
   ![Screenshot 2023-01-04 202426](https://user-images.githubusercontent.com/95114633/210582558-da8fc1a7-d422-4825-a0d8-a009da8c0e34.png)
  <br>
  
