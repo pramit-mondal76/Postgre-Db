@@ -12,3 +12,12 @@
 \a	-->Switch from aligned to non-aligned column output	  <br>
 \H	-->Switch the output to HTML format	  <br>
 \q	-->Exit psql shell  <br>
+
+
+<b>How to create table and delete table ?<b>
+  <br>
+  
+  --> create table students (id integer not null primary key,fname text not null ,lname text not null,age integer not null);
+   <br>
+  --> drop table students;
+  <br>
