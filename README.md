@@ -28,6 +28,11 @@
 <br>
 <br>
 <br>
+  
+ Q.What is a schema in PostgreSQL?
+ => Schema is a collection of logical structures of data. In PostgreSQL, schema is a named collection of tables, views, functions, constraints, indexes, sequences etc.
+  <br>
+  
  <b>How to create table and delete schemas ?<b>
   <br> 
   <br>
