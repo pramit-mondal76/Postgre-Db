@@ -47,3 +47,14 @@
    ![Screenshot 2023-01-04 203146](https://user-images.githubusercontent.com/95114633/210584086-074799e7-af69-431f-a92a-292aec4ee65e.png)
    <br>
 
+
+<b>Insert values in the tables ----<b>
+<br>
+![Screenshot_20230105_200022](https://user-images.githubusercontent.com/95114633/210843104-2513a192-3928-42c7-8743-7560a1b82d35.png)
+<br>
+<br>
+<br>
+<b> Select keyword <b>
+<br>
+
+![Screenshot_20230105_201729](https://user-images.githubusercontent.com/95114633/210843427-c5b063e3-bbf0-4b69-a53a-fd05df179e5c.png)
