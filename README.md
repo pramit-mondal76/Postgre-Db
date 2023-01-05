@@ -42,8 +42,7 @@
    <br>
     <br>
     <br>
-   ![Screenshot 2023-01-04 203146](https://user-images.githubusercontent.com/95114633/210584086-074799e7-af69-431f-a92a-292aec4ee65e.png)
-   <br>
+
 
 
 <b>Insert values in the tables ----<b>
@@ -56,9 +55,8 @@
 <b> Select keyword--- <b>
 <br>
 <br>
-![Screenshot_20230105_201729](https://user-images.githubusercontent.com/95114633/210844288-f2c30101-4187-4bd8-91d0-d48e49149bfd.png)
-
+select * from students;
   <br>
   <b> where clause--- <b>
     <br>
-  ![Screenshot_20230105_230144](https://user-images.githubusercontent.com/95114633/210844334-d0e4bc87-1e63-4437-a5d3-1a7657d0b9ac.png)
+select * from students where lname='mondal' AND age <=20;
