@@ -24,8 +24,6 @@
   --> drop table students;
   <br>
   
-
-  
  ![Screenshot (2)](https://user-images.githubusercontent.com/95114633/210575711-f85c96c2-bccd-4e98-89e2-c955eecce70f.png)
 <br>
 <br>
@@ -58,8 +56,9 @@
 <b> Select keyword--- <b>
 <br>
 <br>
-![Screenshot_20230105_201729](https://user-images.githubusercontent.com/95114633/210843427-c5b063e3-bbf0-4b69-a53a-fd05df179e5c.png)
+![Screenshot_20230105_201729](https://user-images.githubusercontent.com/95114633/210844288-f2c30101-4187-4bd8-91d0-d48e49149bfd.png)
+
   <br>
   <b> where clause--- <b>
     <br>
-    ![Screenshot_20230105_230144](https://user-images.githubusercontent.com/95114633/210843779-e5279a0b-66e9-4e60-9718-59e4fb8eabb8.png)
+  ![Screenshot_20230105_230144](https://user-images.githubusercontent.com/95114633/210844334-d0e4bc87-1e63-4437-a5d3-1a7657d0b9ac.png)
