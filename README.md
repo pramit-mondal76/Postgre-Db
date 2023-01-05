@@ -52,9 +52,14 @@
 <br>
 ![Screenshot_20230105_200022](https://user-images.githubusercontent.com/95114633/210843104-2513a192-3928-42c7-8743-7560a1b82d35.png)
 <br>
+
 <br>
 <br>
 <b> Select keyword <b>
 <br>
 
 ![Screenshot_20230105_201729](https://user-images.githubusercontent.com/95114633/210843427-c5b063e3-bbf0-4b69-a53a-fd05df179e5c.png)
+  <br>
+  <b> where clause <b>
+    <br>
+    ![Screenshot_20230105_230144](https://user-images.githubusercontent.com/95114633/210843779-e5279a0b-66e9-4e60-9718-59e4fb8eabb8.png)
