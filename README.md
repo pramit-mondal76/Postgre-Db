@@ -54,9 +54,10 @@
 <br>
 <b> Select keyword--- <b>
 <br>
-<br>
-select * from students;
+
+==> select * from students;
   <br>
   <b> where clause--- <b>
     <br>
-select * from students where lname='mondal' AND age <=20;
+    <br>
+==> select * from students where lname='mondal' AND age <=20;
